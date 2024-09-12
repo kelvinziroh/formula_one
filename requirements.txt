@@ -1,4 +1,4 @@
-# packages in environment at /opt/anaconda3/envs/formula_one:
+# packages in conda environment "formula_one":
 #
 # Name                    Version                   Build  Channel
 anyio                     4.2.0           py312hca03da5_0  
